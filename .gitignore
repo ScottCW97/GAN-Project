@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Ignore Large Data Folder
-./Data/
+./Data/Characters/*
 
 # Distribution / packaging
 .Python
